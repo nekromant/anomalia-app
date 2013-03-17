@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">serverctl</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Pocket Server</string>
+    <string name="m_start">Start</string>
+    <string name="m_stop">Stop</string>
+    <string name="m_term">Terminate</string>
+    <string name="title_activity_cam_window">CamWindow</string>
+
+</resources>
